@@ -1,0 +1,58 @@
+body {
+  background-color: #ebebeb;
+}
+
+.list {
+  width: 600px;
+  height: 850px;
+  background-color: white;
+  margin-top: 1px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  padding-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 140px;
+  font-family: Tahoma;
+  font-size: 22px;
+}
+
+img {
+  width: 150px;
+  height: 190px;
+  margin-left: 220px;
+}
+
+p {
+  color: black;
+  width: 400px;
+  height: 20px;
+  margin-left: 70px;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+ul {
+  color: black;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-left: 55px;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+hr {
+  text-align: center;
+  width: 490px;
+  color: black;
+}
